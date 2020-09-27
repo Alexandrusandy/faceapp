@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/faceapp/static/css/main.805079c8.chunk.css",
+    "main.js": "/faceapp/static/js/main.d474434e.chunk.js",
+    "main.js.map": "/faceapp/static/js/main.d474434e.chunk.js.map",
+    "runtime-main.js": "/faceapp/static/js/runtime-main.bb3cd06b.js",
+    "runtime-main.js.map": "/faceapp/static/js/runtime-main.bb3cd06b.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/faceapp/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.ac348dd6.chunk.js": "/faceapp/static/js/2.ac348dd6.chunk.js",
+    "static/js/2.ac348dd6.chunk.js.map": "/faceapp/static/js/2.ac348dd6.chunk.js.map",
+    "index.html": "/faceapp/index.html",
+    "precache-manifest.0e86d2db5cadd425634beebe68564423.js": "/faceapp/precache-manifest.0e86d2db5cadd425634beebe68564423.js",
+    "service-worker.js": "/faceapp/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/faceapp/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.805079c8.chunk.css.map": "/faceapp/static/css/main.805079c8.chunk.css.map",
+    "static/js/2.ac348dd6.chunk.js.LICENSE.txt": "/faceapp/static/js/2.ac348dd6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb3cd06b.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.ac348dd6.chunk.js",
+    "static/css/main.805079c8.chunk.css",
+    "static/js/main.d474434e.chunk.js"
+  ]
+}
